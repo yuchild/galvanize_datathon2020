@@ -3,14 +3,14 @@ This project is a part of the [Galvanize Alumni Relations](http://glavanize.com)
 
 #### -- Project Status: [Active]
 
-## Project Objective
+## Project Description
 The purpose of this project is use Twitter data from 3 days 30th September, 1st of October, and 2nd of October 2020 to provide three tiers of analysis.
 
-First is a general exploration of data based on Twitter feeds, user characteristics, time series analysis, and natural language processing.
+**First** is a general exploration of data based on Twitter feeds, user characteristics, time series analysis, and natural language processing.
 
-Second is a sentiment analysis of Twitter feeds funneled into an overall influencer score based on retweets, following, favorited, and other metrics. This analysis will then be rolled into regression model targeting user characteristics with the influencer score.
+**Second** is a sentiment analysis of Twitter feeds funneled into an overall influencer score based on retweets, following, favorited, and other metrics. This analysis will then be rolled into regression model targeting user characteristics with the influencer score.
 
-Third is a live web dashboard centered around a map data of states with metrics
+**Third** is a live web dashboard centered around a map data of states with metrics
 
 ### Partners
 * Mathias Darr, Data Scientist and Data Engineer, web app ninja
@@ -26,15 +26,13 @@ Third is a live web dashboard centered around a map data of states with metrics
 
 ### Technologies
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
+* S3
+* EC2
+* PostGres, MySql
 * HTML
 * JavaScript
 * etc.
-
-## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modeling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
 ## Needs of this project
 
@@ -67,15 +65,12 @@ Third is a live web dashboard centered around a map data of states with metrics
 
 3. Data processing/transformation scripts are being kept [here](https://github.com/yuchild/galvanize_datathon2020/commit/14bf75445630b26fb33ac53e685442f1e6c846e4)
 4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
 5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* [EDA Notebook](https://github.com/yuchild/galvanize_datathon2020/blob/main/eda.ipynb)
+* [Modeling Notebook](https://github.com/yuchild/galvanize_datathon2020/blob/main/Datathon%20-%20Sentiment%20Analysis%20%26%20Data%20Cleanup.ipynb)
+* [Live Web Dashboard](link)
 
 
 ## Contributing Members
@@ -84,7 +79,7 @@ Third is a live web dashboard centered around a map data of states with metrics
 
 #### Other Members:
 
-|Name     |  Slack Member ID  |
+| **Name** | **Slack Member ID** |
 |---------|-----------------|
 |[Mathias Darr](https://github.com/MathiasDarr)| U01DGT9BYJE |
 |[David Yu](https://github.com/yuchild) | U01DFNWBMNX |
