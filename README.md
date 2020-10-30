@@ -6,11 +6,11 @@ This project is a part of the [Galvanize Alumni Relations](http://glavanize.com)
 ## Project Description
 The purpose of this project is use Twitter data from 3 days 30th September, 1st of October, and 2nd of October 2020 to provide three tiers of analysis.
 
-  **First** is a general exploration of data based on Twitter feeds, user characteristics, time series analysis, and natural language processing.
+  >**First** is a general exploration of data based on Twitter feeds, user characteristics, time series analysis, and natural language processing.
 
-  **Second** is a sentiment analysis of Twitter feeds funneled into an overall influencer score based on retweets, following, favorited, and other metrics. This analysis will then be rolled into regression model targeting user characteristics with the influencer score.
+  >**Second** is a sentiment analysis of Twitter feeds funneled into an overall influencer score based on retweets, following, favorited, and other metrics. This analysis will then be rolled into regression model targeting user characteristics with the influencer score.
 
-  **Third** is a live web dashboard centered around a map data of states with metrics
+  >**Third** is a live web dashboard centered around a map data of states with metrics
 
 ### Partners
 * Mathias Darr, Data Scientist and Data Engineer, web app ninja
