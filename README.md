@@ -1,5 +1,5 @@
 # Tweet Influencers
-This project is a part of the [Galvanize Alumni Relations](http://glavanize.com) at [Galvanize Datathon 2020 Blog](https://blog.galvanize.com/alumni-datathon-digging-into-the-election/).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/yuchild/galvanize_datathon2020).
+This project is a part of the [Galvanize Alumni Relations](http://glavanize.com) at [Galvanize Datathon 2020 Blog](https://blog.galvanize.com/alumni-datathon-digging-into-the-election/). This project can be found at the [main GitHub repo](https://github.com/yuchild/galvanize_datathon2020).
 
 #### -- Project Status: [Active]
 
@@ -81,7 +81,7 @@ The purpose of this project is use . (Describe the main goals of the project and
 |Name     |  Slack Member ID  |
 |---------|-----------------|
 |[Mathias Darr](https://github.com/MathiasDarr)| U01DGT9BYJE |
-|[David](https://github.com/yuchild) | U01DFNWBMNX |
+|[David Yu](https://github.com/yuchild) | U01DFNWBMNX |
 
 ## Contact
 * If you haven't joined the Galvanize, [you can do that here](https://www.galvanize.com/).  
