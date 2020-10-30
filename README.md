@@ -3,13 +3,19 @@ This project is a part of the [Galvanize Alumni Relations](http://glavanize.com)
 
 #### -- Project Status: [Active]
 
-## Project Intro/Objective
-The purpose of this project is use . (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+## Project Objective
+The purpose of this project is use Twitter data from 3 days 30th September, 1st of October, and 2nd of October 2020 to provide three tiers of analysis.
+
+First is a general exploration of data based on Twitter feeds, user characteristics, time series analysis, and natural language processing.
+
+Second is a sentiment analysis of Twitter feeds funneled into an overall influencer score based on retweets, following, favorited, and other metrics. This analysis will then be rolled into regression model targeting user characteristics with the influencer score.
+
+Third is a live web dashboard centered around a map data of states with metrics
 
 ### Partners
-* Mathias Darr, Data Scientist and Data Engineer Extraordinaire
-* Julia Sokolova, Data Scientist Project Manager Queen Bee
-* David Yu, Data Scientist EDA Guru
+* Mathias Darr, Data Scientist and Data Engineer, web app ninja
+* Julia Sokolova, Data Scientist and Project Manager Queen Bee, sentiment analyst and modeler extraordinaire
+* David Yu, Data Scientist EDA Guru and bookworm for data
 
 ### Methods Used
 * Inferential Statistics
