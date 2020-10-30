@@ -1,4 +1,4 @@
-# Tweet Influencers
+# Tweet Influencers October Surprises
 This project is a part of the [Galvanize Alumni Relations](http://glavanize.com) at [Galvanize Datathon 2020 Blog](https://blog.galvanize.com/alumni-datathon-digging-into-the-election/). This project can be found at the [main GitHub repo](https://github.com/yuchild/galvanize_datathon2020).
 
 #### -- Project Status: [Active]
